@@ -1,6 +1,3 @@
-use std::fs::File;
-use std::io::ErrorKind;
-
 fn main() {
 
     //--------------package with binary crate--------------
